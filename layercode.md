@@ -1,8 +1,5 @@
 ---
-layout: archive
-title: "LayerCode"
-permalink: /tagging/
-author_profile: true
+permalink: /tagging
 redirect_to:
   - https://www.cs.columbia.edu/cg/layercode/
---- 
+---
